@@ -4,7 +4,7 @@ Hi, I'm **Alzaahid Nadaf**, a passionate software developer and tech enthusiast.
 🔭 I’m currently working on **ERP systems** and **social media platforms** with a focus on modern UI design and professional user experiences.  
 🌱 I’m currently learning **MLOps** and exploring the integration of AI models with cloud infrastructure.  
 👯 I’m looking to collaborate on projects that make an impact and bring real-world solutions.  
-💬 Ask me about **React**, **TypeScript**, **Yii2**, or anything related to modern software development!  
+💬 Ask me about **React**, **NextJs**, **TypeScript**, **Yii2**, **Node** or anything related to modern software development!  
 📫 How to reach me: [alzaahid.nadaf@gmail.com](mailto:alzaahid.nadaf@gmail.com)  
 ⚡ Fun fact: I’m always coding at night and fueled by **coffee**!
 
