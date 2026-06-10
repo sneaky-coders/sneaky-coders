@@ -96,10 +96,6 @@ GitHub Actions
 
 ---
 
-## 📊 GitHub Analytics
-
----
-
 ## 🏆 Current Focus
 
 ```txt
