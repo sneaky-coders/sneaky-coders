@@ -1,30 +1,49 @@
 # 👋 Hi, I'm Alzaahid Nadaf
 
-### Full Stack Developer | ERP Solutions Architect | Cloud & DevOps Enthusiast
+### 🚀 Full Stack Developer | SaaS Builder | ERP & POS Solutions Architect
 
-I'm a passionate Full Stack Developer specializing in building scalable web applications, ERP systems, POS solutions, and modern business platforms. I enjoy transforming complex business requirements into intuitive digital experiences using modern technologies and best development practices.
+I design and develop scalable web applications, ERP systems, POS platforms, and business automation solutions that help organizations streamline operations and accelerate growth.
 
-🚀 Currently building **ERP Systems**, **POS Solutions**, **Membership Platforms**, and **Social Media Applications**
-
-🌱 Learning **MLOps**, **AI Integration**, and **Cloud-Native Architectures**
-
-💡 Passionate about **System Design**, **Modern UI/UX**, **Performance Optimization**, and **Business Automation**
-
-🤝 Open to collaborating on innovative SaaS products and enterprise solutions
-
-☕ Coffee-powered developer who enjoys solving real-world problems through code
+With expertise across the entire development lifecycle—from UI/UX implementation to backend architecture, cloud infrastructure, and deployment—I enjoy building reliable products that solve real-world business challenges.
 
 ---
 
-## 💼 What I Do
+## 💫 About Me
 
-* Enterprise Resource Planning (ERP) Systems
-* Point of Sale (POS) Applications
-* Membership & Event Management Platforms
-* E-Commerce Solutions
-* Custom Business Automation Software
-* REST APIs & Backend Architecture
-* Cloud Deployment & DevOps
+* 🔭 Currently building **ERP Systems**, **POS Solutions**, **Membership Platforms**, and **Business Automation Software**
+* 🌱 Exploring **MLOps**, **AI-Powered Applications**, and **Cloud-Native Architectures**
+* 💡 Passionate about **System Design**, **Scalable Architecture**, **DevOps**, and **Performance Optimization**
+* 🤝 Open to collaborating on innovative **SaaS**, **ERP**, and **Enterprise Software** projects
+* ☁️ Deploying and managing applications using **Docker** and **DigitalOcean**
+* ☕ Fueled by coffee, curiosity, and late-night coding sessions
+
+---
+
+## 🏢 Areas of Expertise
+
+### Enterprise Solutions
+
+* ERP Development
+* POS Systems
+* Membership Management Platforms
+* Event Registration Systems
+* Inventory & Purchase Management
+
+### Web Development
+
+* Full Stack Web Applications
+* RESTful APIs
+* Authentication & Authorization
+* Payment Gateway Integrations
+* Third-Party Service Integrations
+
+### Cloud & DevOps
+
+* Docker Containerization
+* DigitalOcean Deployments
+* Linux Server Management
+* Nginx Configuration
+* CI/CD Workflows
 
 ---
 
@@ -32,66 +51,100 @@ I'm a passionate Full Stack Developer specializing in building scalable web appl
 
 ### Frontend
 
-* React.js
-* Next.js
-* Astro
-* TypeScript
-* JavaScript (ES6+)
-* Tailwind CSS
-* Mantine UI
+```txt
+React.js • Next.js • Astro
+TypeScript • JavaScript
+Tailwind CSS • Mantine UI
+HTML5 • CSS3
+```
 
 ### Backend
 
-* Node.js
-* Express.js
-* PHP
-* Yii2 Framework
-* REST APIs
+```txt
+Node.js • Express.js
+PHP • Yii2 Framework
+REST APIs • JWT Authentication
+Webhooks • Payment Integrations
+```
 
 ### Database
 
-* MySQL
-* MongoDB
+```txt
+MySQL
+MongoDB
+```
 
 ### DevOps & Cloud
 
-* Docker
-* DigitalOcean
-* Git & GitHub
-* Linux Servers
-* CI/CD Workflows
+```txt
+Docker
+DigitalOcean
+Linux
+Nginx
+Git & GitHub
+CI/CD
+```
 
-### Tools & Technologies
+### Tools
 
-* Razorpay Integration
-* JWT Authentication
-* Webhooks
-* Nginx
-* Postman
+```txt
+VS Code
+Postman
+Razorpay
+GitHub Actions
+```
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alzaahidnadaf\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alzaahidnadaf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alzaahidnadaf&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alzaahidnadaf\&theme=tokyonight\&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alzaahidnadaf&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alzaahidnadaf\&layout=compact\&theme=tokyonight\&hide_border=true)
+---
+
+## 🏆 Current Focus
+
+```txt
+✓ ERP Development
+✓ POS Solutions
+✓ SaaS Platforms
+✓ Cloud Infrastructure
+✓ AI Integrations
+✓ System Architecture
+✓ Performance Optimization
+```
 
 ---
 
 ## 🌐 Connect With Me
 
-* 📧 Email: [alzaahid.nadaf@gmail.com](mailto:alzaahid.nadaf@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/alzaahidnadaf
-* 📸 Instagram: https://instagram.com/_sneaky.coder_
-* 🐦 Twitter/X: https://twitter.com/alzaahidnadaf
+📧 Email: [alzaahid.nadaf@gmail.com](mailto:alzaahid.nadaf@gmail.com)
+
+💼 LinkedIn: https://linkedin.com/in/alzaahidnadaf
+
+📸 Instagram: https://instagram.com/_sneaky.coder_
+
+🐦 X (Twitter): https://twitter.com/alzaahidnadaf
 
 ---
 
 ## ⚡ Fun Fact
 
-Most of my best code is written late at night with a strong cup of coffee and a clear problem to solve.
+```javascript
+while (alive) {
+  build();
+  deploy();
+  optimize();
+  coffee();
+  repeat();
+}
+```
 
-> "First, solve the problem. Then, write the code."
+> “First, solve the problem. Then, write the code.”
